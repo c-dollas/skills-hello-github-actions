@@ -19,6 +19,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You defined an event trigger, a job, and a step for your workflow.
 - You're ready to automate anything you can dream of.
 
+### :keyboard: Activity: Trigger the workflow
 ### What's next?
 
 - Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)"
